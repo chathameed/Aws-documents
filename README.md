@@ -8,3 +8,6 @@ Difference between KMS and HMS
 S3 encryption options
 
 ![image](https://github.com/user-attachments/assets/b7006aad-4bc4-477e-b741-eee222b1851e)
+
+
+![image](https://github.com/user-attachments/assets/9c301517-2bfd-4146-93c2-01b5ebb8181b)
