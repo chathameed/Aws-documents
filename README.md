@@ -18,3 +18,6 @@ S3 encryption options
 certificate revocation:
 
 ![image](https://github.com/user-attachments/assets/83eddb28-aba2-46b8-b9aa-7c143ab8014a)
+
+
+https://catalog.us-east-1.prod.workshops.aws/workshops/05f16f1a-0bbf-45a7-a304-4fcd7fca3d1f/en-US
