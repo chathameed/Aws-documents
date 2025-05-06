@@ -13,3 +13,8 @@ S3 encryption options
 ![image](https://github.com/user-attachments/assets/9c301517-2bfd-4146-93c2-01b5ebb8181b)
 
 ![image](https://github.com/user-attachments/assets/2c6b7ea8-4617-4eb4-bd9c-d6736d712baa)
+
+
+certificate revocation:
+
+![image](https://github.com/user-attachments/assets/83eddb28-aba2-46b8-b9aa-7c143ab8014a)
